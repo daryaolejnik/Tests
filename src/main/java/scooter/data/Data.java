@@ -53,8 +53,8 @@ public final class Data {
 
     public static final String EMAIL_2 = "jvpshzxyhhcwotfjql@awdrt.org";
     public static final String PASSWORD_2 = "Something1234";
-    public static final String EMAIL_3 = "apadaalashdpiooyzw@ttirv.com";
-    public static final String PASSWORD_3 = "Something12345";
+    public static final String EMAIL_3 = "kyzskpftviqbpoyvyd@ttirv.org";
+    public static final String PASSWORD_3 = "Something123456";
     public static final String EMPTY_JSON_OBJ = "{}";
     public static final String TEST_MODEL_NAME = "test";
     public static final String TEST_SERIAL_NUMBER = "test";
