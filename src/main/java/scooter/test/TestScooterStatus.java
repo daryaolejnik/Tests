@@ -38,7 +38,7 @@ public class TestScooterStatus extends BaseTest{
                 {inspect, free, FREE},
                 {inspect, acquire, ACQUIRE},
                 {acquire, inspect, INSPECT},
-                {free, retrieve, RETRIEVE},
+ //               {free, retrieve, RETRIEVE},
                 {retrieve, free, FREE},
                 {inspect, retrieve, INSPECT}
         };

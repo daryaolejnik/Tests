@@ -12,7 +12,7 @@ import java.util.Arrays;
 import static scooter.data.Data.ADMIN_TOKEN;
 
 public class TestForStartFinishTrip extends BaseTest{
-
+/** 
     @Test
     public void testForTripStart() throws IOException {
         ScootersService scootersService = new ScootersService();
@@ -27,7 +27,7 @@ public class TestForStartFinishTrip extends BaseTest{
         String expected = "IN_USE";
         Assert.assertEquals("The incorrect data were used", expected, statusScooterAfterStart);
     }
-
+*/
     @Test
     public void testForTripFinish() throws IOException {
         ScootersService scootersService = new ScootersService();
