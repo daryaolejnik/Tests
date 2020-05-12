@@ -18,9 +18,7 @@ import scooter.test.TestScooters;
         TestForUserSolvency.class,
         TestForAuthorizedUser.class,
         TestScooterStatus.class,
-        TestCardService.class,
-        TestForStartFinishTrip.class,
-        TestForUserData.class
+        TestCardService.class
 })
 public class RunScooterTests {
 }
